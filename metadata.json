@@ -1,0 +1,6 @@
+{
+  "name": "Pharaoh's Legacy: The Lost Secrets of Ancient Egypt",
+  "description": "An immersive 3D Egyptian archaeological adventure puzzle game and interactive history museum with hieroglyphs decoding, tomb exploration, pyramid geometry, and Nile simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
